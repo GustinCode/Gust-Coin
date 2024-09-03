@@ -10,7 +10,7 @@ Um projeto da DIO para criar uma contrato segundo o padrão ERC-20 para criaçã
 ## ✨ Features
 
 
-|   Evento   | retorno |
+|   funções   | retorno |
 | :------: | :------: |
 |  totalSuppy  | retorna a quantidade total de moedas disponíveis do contrato |
 | balanceOf | retorna a quantidade total de moedas disponíveis no endereço enviado |
