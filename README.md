@@ -1,4 +1,4 @@
-# 📖Criação de uma moeda em uma rede Etherium:🪙 Gust-Coin
+# 📖Criação de uma moeda em uma rede Etherium: 🪙Gust-Coin
 
 Um projeto da DIO para criar uma contrato segundo o padrão ERC-20 para criação de um token fundivel, na criação do projeto foi criado uma moeda simples e alguns sistemas
 
